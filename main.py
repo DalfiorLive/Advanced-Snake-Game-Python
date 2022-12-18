@@ -4,7 +4,6 @@ import random
 # initiate program
 pg.init()
 
-
 # program variables=====================================================================================================
 
 # set screen size and window title
